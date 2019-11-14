@@ -1,0 +1,3 @@
+declare @tongtien int 
+exec TongTienHD_MHD 'HD5', @tongtien output
+print @tongtien

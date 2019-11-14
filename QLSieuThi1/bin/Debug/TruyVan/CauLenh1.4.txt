@@ -1,0 +1,1 @@
+select * from TongTien_SL_Nhap

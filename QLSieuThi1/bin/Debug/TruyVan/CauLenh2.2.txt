@@ -1,0 +1,3 @@
+declare @tonghd int 
+exec TongHD_datetime '9', '2018' , @tonghd output
+print @tonghd

@@ -1,0 +1,4 @@
+declare @tongSLN int, @ttNhap int
+exec Tong_SLNhap_TienNhap 'HH10', '2016',  @tongSLN output, @ttNhap output
+print @tongSLN
+print @ttNhap

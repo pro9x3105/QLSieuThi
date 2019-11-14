@@ -1,0 +1,4 @@
+declare @tongHD int, @tongDT int
+exec HD_DT_NV 'NV2', '2018',  @tongHD output, @tongDT output
+print @tongHD
+print @tongDT

@@ -1,0 +1,12 @@
+D:\VSC\QLSieuThi1\QLSieuThi1\bin\Debug\QLSieuThi1.exe.config
+D:\VSC\QLSieuThi1\QLSieuThi1\bin\Debug\QLSieuThi1.exe
+D:\VSC\QLSieuThi1\QLSieuThi1\bin\Debug\QLSieuThi1.pdb
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.csprojAssemblyReference.cache
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.Form1.resources
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.Properties.Resources.resources
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.csproj.GenerateResource.cache
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.csproj.CoreCompileInputs.cache
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.exe
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.pdb
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.Form2.resources
+D:\VSC\QLSieuThi1\QLSieuThi1\obj\Debug\QLSieuThi1.FormViewProcFunc.resources
